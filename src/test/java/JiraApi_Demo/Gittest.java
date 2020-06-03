@@ -10,21 +10,27 @@ public class Gittest {
 
 	}
 
-	public static void temp()
-	{
-		System.out.println("Add Temp method by gittemp");
-	}
+	
 	public static void develop()
 	{
 		System.out.println("Add develop method by gittemp");
+	}
+	
+	public static void masterone()
+	{
+		System.out.println("Add masterone method by gittemp");
+	}
+	
+	public static void mastertwo()
+	{
+		
+		System.out.println("Add mastertwo method by gittemp");
 	}
 	
 	public static void adddevelop()
 	{
 		System.out.println("Add develop method by DemoX");
 	}
-	public static void adddevelopone()
-	{
-		System.out.println("Add developone method by DemoX");
-	}
+	
+	
 }
