@@ -23,4 +23,8 @@ public class Gittest {
 	{
 		System.out.println("Add develop method by DemoX");
 	}
+	public static void adddevelopone()
+	{
+		System.out.println("Add developone method by DemoX");
+	}
 }
