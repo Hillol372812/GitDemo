@@ -12,6 +12,6 @@ public class Gittest {
 
 	public static void temp()
 	{
-		System.out.println("Add Temp method");
+		System.out.println("Add Temp method by gittemp");
 	}
 }
